@@ -16,7 +16,8 @@ To play this game, do the following steps:
 
 - I am gladly looking forward to hear your opinions/suggestions about this application.
 
-Thank you.<br/>
-Regards, Arxa
+Thank you.
 
 - June 2015, Thessaloniki, Greece
+
+Arxa
