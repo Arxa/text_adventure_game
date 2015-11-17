@@ -18,6 +18,6 @@ To play this game, do the following steps:
 
 Thank you.
 
+Arxa,
 - June 2015, Thessaloniki, Greece
 
-Arxa
