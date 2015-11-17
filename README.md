@@ -3,7 +3,7 @@ Hey!
 
 This is text-based adventure game developed in Java.
 
-Before you run the game do these steps:
+To play this game, do the following steps:
 
 1. Install this:  https://java.com/en/download/
 
