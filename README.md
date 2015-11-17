@@ -14,10 +14,8 @@ To play this game, do the following steps:
 
 3. If all goes well, Enjoy! 
 
-- I am gladly looking forward to hear your opinions/suggestions about this application.
+I am gladly looking forward to hear your opinions/suggestions about this application.
 
-Thank you.
-
-Arxa,
 - June 2015, Thessaloniki, Greece
+- Arxa
 
