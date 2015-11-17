@@ -1,0 +1,27 @@
+\nYou are standing in front of a White Castle.\n
+You can see the castle's Gate and a strange Carpet just in front of the Gate.\n
+*
+\nYou have teleported inside the White Castle !\n
+Now you are walking across the Castle's Hall.\n
+You can see a Painting on the wall.\n
+It seems that you can head on different directions from here..\n
+*
+\nHere is the Castle's Kitchen.\n
+There is a silver Chest and a Table with a Bottle on it\n
+*
+\nYou are in the Castle's Library.\n
+*
+\nThis is the Castle's Bedroom.\n
+You can see a Bed and a Desk next to it.\n
+*
+\n..\n...\n....\n......\n.......\n.......\n............\n\n
+You are walking in a dark secret Tunnel...
+*
+\n..\n...\n....\n......\n.......\n.......\n............\n.................\n\n
+You are at a peaceful green scenery with \n
+waterfalls and dragonflies flying over! :D\n
+Wow it's so beautiful here...\nYour friends are playing in the nature!!\n
+You finally found them!\n\n
+MISSION: Complete!\n
+*
+ 
