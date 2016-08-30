@@ -1,18 +1,14 @@
 # TextAdventureGame
 
-This is text-based adventure game developed in Java.
+A text-based adventure game developed in Java. There are features like Command Parser, Game Saving and Item Storage.
+Most of Java principles were implemented.
 
-To play this game, do the following steps:
 
-1) Install this:  https://java.com/en/download/
+How to play:
+
+1) Download and install Java:  https://java.com/en/download/
 
 2) Double-Click on the textAdventureGame shortcut (the red one), and play the game!
-
-3) If you did it all correctly and you still can't play, please contact 	
-   me so I can help you out.
-
-4) If all goes well, Enjoy! 
-
 
 - June 2015, Thessaloniki, Greece
 - Nikiforos Archakis
