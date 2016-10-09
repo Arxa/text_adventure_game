@@ -1,7 +1,6 @@
 # TextAdventureGame
 
-A text-based adventure game developed in Java. There are features like Command Parser, Game Saving and Item Storage.
-Most of Java principles are implemented.
+This is a Java text-based adventure game using a Command Parser along with features, such as Game Saving, Item Storage and more.
 
 
 How to play:
