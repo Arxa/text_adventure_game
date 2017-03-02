@@ -3,12 +3,6 @@
 This is a Java text-based adventure game using a <b>Command Parser</b> along with features, such as <b>Game Saving</b>, <b>Item Storage</b> and more.
 
 
-How to play:
-
-1) Download and install Java:  https://java.com/en/download/
-
-2) Double-Click on the textAdventureGame shortcut (the red one), and play the game!
-
 - June 2015, Thessaloniki, Greece
 - Nikiforos Archakis
 
