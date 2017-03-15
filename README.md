@@ -6,15 +6,15 @@ This is a Java text-based adventure game using a <b>Command Parser</b> along wit
 - June 2015, Thessaloniki, Greece
 - Nikiforos Archakis
 
-<table>
- 	<tr>
-		<td><a href="/commands.JPG"><img src="commands.JPG"></a></td>
-		<td><a href="saving.JPG"><img src="saving.JPG"></a></td>
-	</tr>
+
+ 	
+<a href="/commands.JPG"><img src="commands.JPG"></a>
+<a href="saving.JPG"><img src="saving.JPG"></a>
 	
- 	<tr>
-		<td><a href="werewolf.JPG"><img src="werewolf.JPG"></a></td>
-		<td><a href="crossbow.JPG"><img src="crossbow.JPG"></a></td>
-	</tr>
-</table>
+	
+ 	
+<a href="werewolf.JPG"><img src="werewolf.JPG"></a>
+<a href="crossbow.JPG"><img src="crossbow.JPG"></a>
+	
+
 
